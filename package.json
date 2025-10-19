@@ -2,12 +2,12 @@
   "name": "uptime-status",
   "version": "1.0.0",
   "private": true,
-  "author": "JLinmr",
-  "url": "https://www.bsgun.cn",
-  "email": "ruoms@qq.com",
+  "author": "生性凉薄",
+  "url": "https://sxlb.xyz",
+  "email": "sxlb_blog@163.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://github.com/sxlb/Uptime-Status"
   },
   "type": "module",
   "scripts": {
